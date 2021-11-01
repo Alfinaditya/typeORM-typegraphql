@@ -2,7 +2,7 @@
 
 ## Description
 
-This API is using Graphql.i created this project because currently, i'm learning SQL,and i wanna try to combine SQL Database with GraphQL using TypeORM
+This API is using Graphql. I created this project because currently, I'm learning SQL, and I wanna try to combine SQL Database with GraphQL using TypeORM
 
 ## Technologies i used
 
